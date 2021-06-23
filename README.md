@@ -17,3 +17,13 @@ Here are some ideas to get you started:
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaiyaPrajapati&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
+
+```javascript
+var tech_stack = {
+      programming_languages : [ C, Java, Python, C#, Javascript, php ],
+      technoliges : [ "Web Development", "App Development" ],
+      frameworks : [ Django, ASP.NET, ASP.NET_core, Angular, NodeJs, ExpressJs ],
+      tools : [ "Visual Studio Code", "Visual Studio", "Android Studio" ],
+}
+```
+
